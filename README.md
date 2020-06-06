@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	 NextLevelWeek 1.0 🚀
+	 Next Level Week 1.0 🚀
 </h4>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
   	
   <a href="https://www.linkedin.com/in/leonardo-dev/">
-    <img alt="Made by diego64" src="https://img.shields.io/badge/made%20by-leon--carvalho-%2304D361">
+    <img alt="Made by diego64" src="https://img.shields.io/badge/made%20by-Diego--Ferreira-%2304D361">
   </a>
 	
   
@@ -35,7 +35,7 @@
 As empresas ou entidades poderão se cadastrar na plataforma web enviando:
 - Uma imagem do ponto de coleta
 - Nome da entidade, email e whatsapp
-- E o endereço para que ele possa aparecer no mapa
+- Endereço para que ele possa aparecer no mapa
 - Além de selecionar um ou mais ítens de coleta: 
   - Lâmpadas
   - Pilhas e baterias
@@ -45,10 +45,10 @@ As empresas ou entidades poderão se cadastrar na plataforma web enviando:
   - Óleo de cozinha
 
 Os usuários terão acesso ao aplicativo móvel, onde poderão:
-- Mavegar pelo mapa para ver as instituições cadastradas
-- Entrar em contato com a entidade através do E-mail ou do WhatsApp
+- Navegar pelo mapa para ver as instituições cadastradas
+- Entrar em contato com a entidade através do E-mail ou WhatsApp
 
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](rs).
+Projeto desenvolvido durante a **NLW - Next Level Week 1.0** oferecida pela [Rocketseat](rs).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
 
@@ -86,9 +86,9 @@ O layout da aplicação está disponível no Figma:
   
 </p>
 
-## 🛠 Tecnologias
+## 🔨 Tecnologias utilizadas
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes tecnologias foram usadas na construção do projeto:
 
 - [Node.js][nodejs]
 - [TypeScript][typescript]
@@ -96,14 +96,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React Native][rn]
 - [Expo][expo]
 
-## 📁 Estrutuda
+## 📁 Estrutura do Projeto
 
 Podemos considerar este projeto como sendo divido em três partes:
 1. Back End 
 2. Front End 
 3. Mobile
 
-💡 Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.
+👉 Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar 👈
 
 ### Pré-requisitos
 
@@ -156,7 +156,7 @@ $ expo start
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
 
-### 📱Rodando a Aplicação Mobile 
+### 📱 Rodando a Aplicação Mobile 
 
 ```bash
 # Clone este repositório
