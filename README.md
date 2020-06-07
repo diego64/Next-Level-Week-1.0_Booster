@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	 Next Level Week 1.0 🚀
+	 Next Level Week 1.0 (Trilha Booster) 🚀
 </h4>
 
 <p align="center">
